@@ -1,1 +1,1 @@
-# myminiproject
+# MYProject
